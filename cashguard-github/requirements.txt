@@ -1,0 +1,11 @@
+# сервис (GPU-под RunPod, Python 3.12, torch 2.8 + CUDA уже в образе)
+fastapi
+uvicorn
+python-multipart
+opencv-python-headless
+pillow
+numpy
+transformers
+ultralytics==8.4.180
+openpyxl
+pandas

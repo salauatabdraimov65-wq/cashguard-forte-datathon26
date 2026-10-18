@@ -1,0 +1,10 @@
+{
+  "_comment": "Заполняет ответственный за нормативку. Только реальные акты РК (НБРК, adilet.zan.kz); пункт проверить по тексту документа. Не выдумывать.",
+  "prev_client_cash_unsecured": {"document": "ЗАПОЛНИТЬ", "clause": "ЗАПОЛНИТЬ", "summary": "ЗАПОЛНИТЬ", "url": ""},
+  "leave_without_securing": {"document": "ЗАПОЛНИТЬ", "clause": "ЗАПОЛНИТЬ", "summary": "ЗАПОЛНИТЬ", "url": ""},
+  "storage_or_keys_unattended": {"document": "ЗАПОЛНИТЬ", "clause": "ЗАПОЛНИТЬ", "summary": "ЗАПОЛНИТЬ", "url": ""},
+  "personal_items_in_cash_zone": {"document": "ЗАПОЛНИТЬ", "clause": "ЗАПОЛНИТЬ", "summary": "ЗАПОЛНИТЬ", "url": ""},
+  "counting_without_controller": {"document": "ЗАПОЛНИТЬ", "clause": "ЗАПОЛНИТЬ", "summary": "ЗАПОЛНИТЬ", "url": ""},
+  "outsider_in_cash_zone": {"document": "ЗАПОЛНИТЬ", "clause": "ЗАПОЛНИТЬ", "summary": "ЗАПОЛНИТЬ", "url": ""},
+  "collection_bag_handover": {"document": "ЗАПОЛНИТЬ", "clause": "ЗАПОЛНИТЬ", "summary": "ЗАПОЛНИТЬ", "url": ""}
+}
